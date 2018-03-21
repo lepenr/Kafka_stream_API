@@ -3,7 +3,7 @@
 
 ### Description
  
- This is the repository for Kafka streaming and expolied the data thrue express API. 
+ This is the repository for express API witch is working with Apache Kafka. Router /twitter is returning JSON from Kafka server. 
 
 
  Feel free to fork. Feel free to contact me.
