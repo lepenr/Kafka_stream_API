@@ -3,22 +3,22 @@
 
 ### Description
  
- This is the repository for my 
+ This is the repository for Kafka streaming and expolied the data thrue express API. 
 
 
- Feel free to fork.
+ Feel free to fork. Feel free to contact me.
 
  ## Instructions
  
  
  For successful running of this repository is require:
  - installing and running Apache Kafka and Zookeeper
- - created topic 'twitter' 
+ - created topic 'twitterFeeds' 
  - created producer for this topic
  
  
  Install:
-```bash
+ ```bash
  npm install
  ```
  Run:
