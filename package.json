@@ -1,0 +1,23 @@
+{
+  "name": "Kafka_stream_twitter_API",
+  "version": "1.0.0",
+  "description": "expressjs todo API for dev.to",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.4.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "ngrok": "^3.0.1"
+  }
+}
