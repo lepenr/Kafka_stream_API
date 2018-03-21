@@ -1,9 +1,10 @@
-# Kafka_stream_twitter
+# Kafka_stream_API
 ## Express API returning JSON from Apache Kafka stream
 
 ### Description
  
- This is the repository for express API witch is working with Apache Kafka. Router /twitter is returning JSON from Kafka server. 
+ This is the repository for express API witch is working with Apache Kafka. Router /twitter is returning JSON from Kafka server.
+ As a source for the Kafka producer is used Twitter API, this part is not a part of the solution.
 
 
  Feel free to fork. Feel free to contact me.
